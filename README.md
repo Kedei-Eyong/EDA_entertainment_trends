@@ -1,3 +1,5 @@
+<img width="475" alt="Capture repo pic" src="https://github.com/user-attachments/assets/2f7d6544-3155-4c48-9232-39a5fe67e1f3" />
+
 
 # Entertainment Content Analysis
 
@@ -16,7 +18,6 @@ This EDA uncovers insights about:
 'my_capstone_project.csv': Dataset used for the analysis
 
 'Kedei_Eyong_capstone_project.ipynb': Jupyter Notebook containing the code and analysis
-<img width="475" alt="Capture repo pic" src="https://github.com/user-attachments/assets/2f7d6544-3155-4c48-9232-39a5fe67e1f3" />
 
 'Entertainment Trend Report.pdf': Report summarizing findings of the EDA
 
