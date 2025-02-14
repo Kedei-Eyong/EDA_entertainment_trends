@@ -14,7 +14,9 @@ This EDA uncovers insights about:
 ## Files
 
 'my_capstone_project.csv': Dataset used for the analysis
+
 'Kedei_Eyong_capstone_project.ipynb': Jupyter Notebook containing the code and analysis
+
 'Entertainment Trend Report.pdf': Report summarizing findings of the EDA
 
 ## Getting Started
