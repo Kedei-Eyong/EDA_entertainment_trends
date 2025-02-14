@@ -1,4 +1,4 @@
-'''markdown
+
 # Entertainment Content Analysis
 
 This repository contains an Exploratory Data Analysis (EDA) of entertainment content, exploring key patterns and trends within a given dataset.
