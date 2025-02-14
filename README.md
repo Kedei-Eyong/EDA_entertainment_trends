@@ -1,3 +1,5 @@
+<img width="471" alt="Capture entert tt ty" src="https://github.com/user-attachments/assets/12dcfdee-5f8a-4bc9-abff-66a856a721a5" />
+
 
 # Entertainment Content Analysis
 
